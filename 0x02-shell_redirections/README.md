@@ -3,3 +3,4 @@
 1. confused smiley -> Write a script that displays a confused smiley "(Ôo)'.
 2. Let's display a file -> Display the content of the /etc/passwd file.
 3. display the content of the two files
+4. Last lines of a file -> Display the last 10 lines of /etc/passwd
