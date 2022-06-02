@@ -21,3 +21,4 @@
 19. Replace all characters A and c from input to Z and e respectively.
 20. Create a script that removes all letters c and C from input.
 21. reverse input
+22. cut and isplay all files and users
